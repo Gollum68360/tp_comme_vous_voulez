@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>lb_comme_vous_voulez</name>
-    <displayName><![CDATA[Module de devis]]></displayName>
+    <name>lb_projet_grand_module</name>
+    <displayName><![CDATA[des articles de blogs]]></displayName>
     <version><![CDATA[1.0.1]]></version>
-    <description><![CDATA[des avis]]></description>
+    <description><![CDATA[articles]]></description>
     <author><![CDATA[Lucien]]></author>
     <tab><![CDATA[]]></tab>
     <is_configurable>1</is_configurable>
