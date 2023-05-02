@@ -72,8 +72,8 @@ class Lb_Comme_Vous_Voulez extends Module
                     )
                 ],
                 [
-                    'type' => 'Commentaire',
-                    'label' => $this->l('Information'),
+                    'type' => 'textarea',
+                    'label' => $this->l('Commentaire'),
                     'name' => 'LB_COMMENTAIRE',
                     'autoload_rte' => true,
                 ]
